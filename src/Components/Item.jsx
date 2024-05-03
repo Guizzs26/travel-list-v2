@@ -1,10 +1,10 @@
 /* eslint-disable react/prop-types */
 
-export default function Item({ item }) {
+export default function Item({ item, onDeleteItem }) {
   return (
     <li className={item.packed ? { textDecoration: "line-through" } : {}}>
       {item.quantity} {item.description}
-      <button>❌</button>
+      <button onClick={() => onDeleteItem(item.id)}>❌</button>
     </li>
   );
 }
