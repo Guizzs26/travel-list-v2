@@ -2,7 +2,7 @@
 
 export default function Item({ item, onDeleteItem, onToggleItem }) {
   return (
-    <div>
+    <div className="list">
       <li style={item.packed ? { textDecoration: "line-through" } : {}}>
         <input
           type="checkbox"
