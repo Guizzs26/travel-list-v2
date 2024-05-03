@@ -90,10 +90,4 @@
   <p>With yarn:</p>
   <code>yarn dev</code>
   </br>
-  <li><strong>Open your browser:</strong></li>
-  <p>
-    Your application will be running at
-    <a href="http://localhost:3000">http://localhost:3000</a>. Open this link in
-    your browser to view the project.
-  </p>
 </ol>
