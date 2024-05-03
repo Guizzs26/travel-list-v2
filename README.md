@@ -76,7 +76,7 @@
   </br>
   <code>npm install</code>
   </br>
-  <p>or if you're using yarn:</p                               
+  <p>or if you're using yarn:</p>                               
   <code>cd your-project</code>
   </br>
   <code>yarn</code>
