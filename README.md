@@ -69,22 +69,27 @@
   <li><strong>Clone the repository:</strong></li>
   <code>git clone https://github.com/your-username/your-project.git</code>
 
+  </br>
+  
   <li><strong>Install dependencies:</strong></li>
   <code>cd your-project</code>
+  </br>
   <code>npm install</code>
-  
-  <p>or if you're using yarn:</p
-                               
+  </br>
+  <p>or if you're using yarn:</p                               
   <code>cd your-project</code>
+  </br>
   <code>yarn</code>
 
+  </br>
+  
   <li><strong>Start the development server:</strong></li>
   <p>With npm:</p>
   <code>npm run dev</code>
-  
+  </br>
   <p>With yarn:</p>
   <code>yarn dev</code>
-
+  </br>
   <li><strong>Open your browser:</strong></li>
   <p>
     Your application will be running at
