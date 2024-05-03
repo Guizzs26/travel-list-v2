@@ -41,18 +41,18 @@
 
   <li>I improved my programming logic.</li>
 
-  <li>I used conditionals for styling</li>
+  <li>I used conditionals for styling.</li>
 
   <li>
     I used conditional rendering with ternary operator, && operator and early
-    return to render the entire Stats component if items.length === 0
+    return to render the entire Stats component if items.length === 0.
   </li>
 
-  <li>I used item rendering with map</li>
+  <li>I used item rendering with map.</li>
 
-  <li>I used other JS high order functions such as slice, filter and sort</li>
+  <li>I used other JS high order functions such as slice, filter and sort.</li>
 
-  <li>I learned to order elements in different ways</li>
+  <li>I learned to order elements in different ways.</li>
 
-  <li>I learned to clear the state after being used in different ways</li>
+  <li>I learned to clear the state after being used in different ways.</li>
 </ul>
