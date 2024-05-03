@@ -12,10 +12,8 @@
 <h2>What i learned?</h2>
 <ul>
   <li>
-    1.426 / 5.000 Resultados de tradução Resultado da tradução In this project I
-    learned more about the state. The difference between state and chunks of
-    state, where to put state, when to use state, and what type of state to use
-    (global or local).
+    The difference between state and chunks of state, where to put state, 
+    when to use state, and what type of state to use (global or local).
   </li>
 
   <li>
