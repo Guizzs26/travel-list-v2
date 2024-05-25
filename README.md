@@ -55,39 +55,3 @@
   <li>I learned to clear the state after being used in different ways.</li>
 </ul>
 
-<h2>How to use?</h2>
-
-<h3>Prerequisites:</h3>
-
-<p>
-  Before you start, make sure you have installed Node.js and npm (or yarn) in
-  your machine.
-</p>
-
-<h3>Steps</h3>
-<ol>
-  <li><strong>Clone the repository:</strong></li>
-  <code>git clone https://github.com/your-username/your-project.git</code>
-
-  </br>
-  
-  <li><strong>Install dependencies:</strong></li>
-  <code>cd your-project</code>
-  </br>
-  <code>npm install</code>
-  </br>
-  <p>or if you're using yarn:</p>                               
-  <code>cd your-project</code>
-  </br>
-  <code>yarn</code>
-
-  </br>
-  
-  <li><strong>Start the development server:</strong></li>
-  <p>With npm:</p>
-  <code>npm run dev</code>
-  </br>
-  <p>With yarn:</p>
-  <code>yarn dev</code>
-  </br>
-</ol>
